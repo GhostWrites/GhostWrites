@@ -1,5 +1,7 @@
 ## Hi there 👋
 <<
+[Berserk HD desktop wallpaper](https://github.com/user-attachments/assets/02f430f6-6010-492f-b996-c2ff96af5483)
+
 
 - 🔭 I’m currently working on Building my habit to code
 - 🌱 I’m currently learning C++
